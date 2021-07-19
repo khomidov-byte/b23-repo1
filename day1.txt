@@ -1,0 +1,4 @@
+B23 is learning git
+
+We just made our frist commit
+YAY!!
